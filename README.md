@@ -2,15 +2,11 @@
 
 
 
-[![MIT License][license-shield]][license-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/lbeique/Pathfinder">
-    <img src="images/logo.jpg" alt="Pathfinder Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Pathfinder Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Pathfinder</h3>
@@ -75,8 +71,8 @@ Pathfinder is a chrome extension that allows users to customize the accessibilit
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Storybook][Storybook.js]][Vue-url]
-* [![MySQL][MySQL]][Angular-url]
+* [![Storybook][Storybook.js]][Storybook-url]
+* [![MySQL][MySQL]][MySQL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,16 +170,11 @@ Project Link: [https://github.com/lbeique/Pathfinder](https://github.com/lbeique
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Storybook.js]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Storybook.js]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=storybook&logoColor=61DAFB
 [Storybook-url]: https://storybook.js.org/
-[MySQL]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[MySQL-url]: https://www.mysql.com/MySQL-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[MySQL]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB
+[MySQL-url]: https://www.mysql.com/
