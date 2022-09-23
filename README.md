@@ -12,7 +12,7 @@
 <h3 align="center">Pathfinder</h3>
 
   <p align="center">
-    The Pathfinder Chrome Extension.
+    The Pathfinder Application.
     <br />
     <a href="https://github.com/lbeique/Pathfinder"><strong>Explore the docs »</strong></a>
     <br />
