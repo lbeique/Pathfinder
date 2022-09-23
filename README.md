@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Pathfinder is a chrome extension that allows users to customize the accessibility experience when visiting a website. The current MVP is to provide the user with the ability to adjust colours and fonts. 
+Pathfinder is an application that allows users to navigate the web in an accessibility friendly way.
 
 
 <!-- `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
