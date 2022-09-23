@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lbeique/Pathfinder">
-    <img src="images/logo.jpg" alt="Pathfinder Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Pathfinder Logo" width="480" height="160">
   </a>
 
 <h3 align="center">Pathfinder</h3>
@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Laurent Beique - [@twitter_handle](https://twitter.com/BeiqueLaurent) - lbeique@outlook.com
+Laurent Beique - [@BeiqueLaurent](https://twitter.com/BeiqueLaurent) - lbeique@outlook.com
 
 Project Link: [https://github.com/lbeique/Pathfinder](https://github.com/lbeique/Pathfinder)
 
@@ -174,7 +174,7 @@ Project Link: [https://github.com/lbeique/Pathfinder](https://github.com/lbeique
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Storybook.js]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=storybook&logoColor=61DAFB
+[Storybook.js]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=storybook&logoColor=FF4785
 [Storybook-url]: https://storybook.js.org/
-[MySQL]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB
+[MySQL]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=mysql&logoColor=035480
 [MySQL-url]: https://www.mysql.com/
