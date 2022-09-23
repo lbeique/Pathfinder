@@ -176,5 +176,5 @@ Project Link: [https://github.com/lbeique/Pathfinder](https://github.com/lbeique
 [React-url]: https://reactjs.org/
 [Storybook.js]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=storybook&logoColor=FF4785
 [Storybook-url]: https://storybook.js.org/
-[MySQL]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=mysql&logoColor=035480
+[MySQL]: https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=035480
 [MySQL-url]: https://www.mysql.com/
