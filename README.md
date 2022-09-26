@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -61,8 +60,6 @@
 Pathfinder is an application that allows users to navigate the web in an accessibility friendly way.
 
 
-<!-- `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -81,17 +78,20 @@ Pathfinder is an application that allows users to navigate the web in an accessi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Until the project is approved my Google, you will need to install the project locally.
+Prerequisites, documentation, and guides can be included in this section.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is where we can list the project dependencies.
+
 * npm
   ```sh
   npm install npm@latest -g
   ```
 
 ### Installation
+
+This is where we can detail the installation process.
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -114,13 +114,21 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+We can use this space to showcase how to use the application.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- DESIGN DOCUMENTS -->
+## Design Prototypes
+
+Pathfinder's early research Figjam:
+<a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research"><strong>Pathfinder Figjam</strong></a>
+
+Pathfinder's early design Figma:
+<a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
 
 <!-- ROADMAP -->
 ## Roadmap
