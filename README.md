@@ -44,9 +44,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-     <li><a href="#design">Design Prototypes</a></li>
+    <li><a href="#design-prototypes">Design Prototypes</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#Collaborators">Collaborators</a></li>
