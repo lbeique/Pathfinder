@@ -44,6 +44,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+     <li><a href="#design">Design Prototypes</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -129,6 +130,9 @@ Pathfinder's early research Figjam:
 
 Pathfinder's early design Figma:
 <a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ROADMAP -->
 ## Roadmap
