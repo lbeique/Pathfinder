@@ -57,11 +57,35 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Pathfinder is an application that allows users to navigate the web in an accessibility friendly way.
+Pathfinder is a study/assignment helper that reformats assignment requirements or other educational resources so they are easier for students with learning/reading disabilities to understand.
 
+
+<!-- PUROPOSE -->
+## Purpose
+
+Students with dyslexia or other reading difficulties often experience more hardships when trying to understand their assignment requirements and course materials than the average student. Our goal is to make these resources easier to digest for an enhanced learning experience.
+
+
+<!-- MAIN FEATURES -->
+## Main Features
+* Text Summarization
+* Highlight Text Dictionary
+* Simplifying Texts
+* Course Materials Organization with The Personal Library
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- DESIGN DOCUMENTS -->
+## Design Prototypes
+
+Pathfinder's early research Figjam:
+<a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research"><strong>Pathfinder Figjam</strong></a>
+
+Pathfinder's early design Figma:
+<a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -106,42 +130,6 @@ This is where we can detail the installation process.
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-We can use this space to showcase how to use the application.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- DESIGN DOCUMENTS -->
-## Design Prototypes
-
-Pathfinder's early research Figjam:
-<a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research"><strong>Pathfinder Figjam</strong></a>
-
-Pathfinder's early design Figma:
-<a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
