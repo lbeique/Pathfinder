@@ -39,9 +39,9 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#research-and-design-documents">Design</a></li>
     <li><a href="#development">Development</a></li>
+    <li><a href="#team-members">Team Members</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#Collaborators">Collaborators</a></li>
   </ol>
 </details>
 
@@ -123,6 +123,20 @@ Frontend Development:
 
 
 
+<!-- Team Members -->
+## Team Members
+
+* [Laurent Beique](lbeique@outlook.com)
+* [Cheryl Ho](ho.cheryl@outlook.com)
+* [Ivy Lee](ivy1920lee@gmail.com)
+* [Callista Stefanie Taswin](callistastefanie@gmail.com)
+* [Anna Jeong](seohyun9672@gmail.com)
+* [Daesan Kim](daesan98@gmail.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 <!-- LICENSE -->
 ## License
 
@@ -139,20 +153,6 @@ If you are looking to help or contribute with the project, please contact:
 
 Laurent Beique - [@BeiqueLaurent](https://twitter.com/BeiqueLaurent) - lbeique@outlook.com
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- Team Members -->
-## Team Members
-
-* [Laurent Beique](lbeique@outlook.com)
-* [Cheryl Ho](ho.cheryl@outlook.com)
-* [Ivy Lee](ivy1920lee@gmail.com)
-* [Callista Stefanie Taswin](callistastefanie@gmail.com)
-* [Anna Jeong](seohyun9672@gmail.com)
-* [Daesan Kim](daesan98@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
