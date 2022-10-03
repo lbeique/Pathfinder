@@ -34,10 +34,11 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#purpose">Purpose</a></li>
+    <li><a href="#main-features">Main Features</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#design">Design</a></li>
+    <li><a href="#research-and-design-documents">Design</a></li>
     <li><a href="#development">Development</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#Collaborators">Collaborators</a></li>
@@ -49,11 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Pathfinder is an application that allows students to track and understand their assignments in an accessibility friendly way. Current features include the ability to summarize a document, find and understand keywords, and simplify the language used.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Pathfinder is a study/assignment helper that reformats assignment requirements or other educational resources so they are easier for students with learning/reading disabilities to understand.
 
 
 ### Built With
@@ -62,6 +59,25 @@ Pathfinder is an application that allows students to track and understand their 
 * [![React][React.js]][React-url]
 * [![Storybook][Storybook.js]][Storybook-url]
 * [![MySQL][MySQL]][MySQL-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- PUROPOSE -->
+## Purpose
+
+Students with dyslexia or other reading difficulties often experience more hardships when trying to understand their assignment requirements and course materials than the average student. Our goal is to make these resources easier to digest for an enhanced learning experience.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MAIN FEATURES -->
+## Main Features
+* Text Summarization
+* Highlight Text Dictionary
+* Simplifying Texts
+* Course Materials Organization with The Personal Library
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,20 +91,24 @@ All you need to do is visit our website www.projectpathfinder.com and you can in
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-<!-- DESIGN -->
+<!-- DESIGN DOCUMENTS -->
 ## Research and Design Documents
 
 Pathfinder's Figma Team Project:
-<a href="https://www.figma.com/files/project/37898347/Team-project?fuid=1018768937161552575"><strong>Pathfinder Figma</strong></a>
+<a href="https://www.figma.com/files/project/37898347/Team-project?fuid=1018768937161552575"><strong>Project Pathfinder</strong></a>
+
+Pathfinder's early research Figjam:
+<a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research"><strong>Pathfinder Figjam</strong></a>
+
+Pathfinder's early design Figma:
+<a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- DEVELOPMENT -->
-## Development Repos
+## Development
 
 Storybook and Component Development:
 <a href="https://github.com/lbeique/Olympus"><strong>Olympus</strong></a>
@@ -98,16 +118,6 @@ Backend API Server:
 
 Frontend Development:
 <a href="https://github.com/lbeique/Olympus"><strong>Athena</strong></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ MVP ] Core Features: Dictionary, Summarize, Simplify
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
