@@ -125,9 +125,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
+If you are looking to help or contribute with the project, please contact:
+
 Laurent Beique - [@BeiqueLaurent](https://twitter.com/BeiqueLaurent) - lbeique@outlook.com
 
-Project Link: [https://github.com/lbeique/Pathfinder](https://github.com/lbeique/Pathfinder)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
