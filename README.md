@@ -11,13 +11,11 @@
 <h3 align="center">Pathfinder</h3>
 
   <p align="center">
-    The Pathfinder Application.
+    The Pathfinder Project.
     <br />
     <a href="https://github.com/lbeique/Pathfinder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lbeique/Pathfinder">View Demo</a>
-    ·
     <a href="https://github.com/lbeique/Pathfinder/issues">Report Bug</a>
     ·
     <a href="https://github.com/lbeique/Pathfinder/issues">Request Feature</a>
@@ -36,15 +34,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#design-prototypes">Design Prototypes</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#design">Design</a></li>
+    <li><a href="#development">Development</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -57,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Pathfinder is an application that allows users to navigate the web in an accessibility friendly way.
+Pathfinder is an application that allows students to track and understand their assignments in an accessibility friendly way. Current features include the ability to summarize a document, find and understand keywords, and simplify the language used.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,57 +70,34 @@ Pathfinder is an application that allows users to navigate the web in an accessi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Prerequisites, documentation, and guides can be included in this section.
-
-### Prerequisites
-
-This is where we can list the project dependencies.
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-This is where we can detail the installation process.
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+All you need to do is visit our website www.projectpathfinder.com and you can instantly start using our project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
 
-We can use this space to showcase how to use the application.
+<!-- DESIGN -->
+## Research and Design Documents
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Pathfinder's Figma Team Project:
+<a href="https://www.figma.com/files/project/37898347/Team-project?fuid=1018768937161552575"><strong>Pathfinder Figma</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- DESIGN DOCUMENTS -->
-## Design Prototypes
 
-Pathfinder's early research Figjam:
-<a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research"><strong>Pathfinder Figjam</strong></a>
+<!-- DEVELOPMENT -->
+## Development Repos
 
-Pathfinder's early design Figma:
-<a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
+Storybook and Component Development:
+<a href="https://github.com/lbeique/Olympus"><strong>Olympus</strong></a>
+
+Backend API Server:
+<a href="https://github.com/lbeique/Olympus"><strong>Hermes</strong></a>
+
+Frontend Development:
+<a href="https://github.com/lbeique/Olympus"><strong>Athena</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,10 +105,7 @@ Pathfinder's early design Figma:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ MVP ] Core Features: Dictionary, Summarize, Simplify
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -167,14 +133,15 @@ Project Link: [https://github.com/lbeique/Pathfinder](https://github.com/lbeique
 
 
 
-<!-- Collaborators -->
-## Collaborators
+<!-- Team Members -->
+## Team Members
 
-* [Cheryl Ho](https://twitter.com/BeiqueLaurent)
-* [Ivy Lee](https://twitter.com/BeiqueLaurent)
-* [Callista Stefanie Taswin](https://twitter.com/BeiqueLaurent)
-* [Anna Jeong](https://twitter.com/BeiqueLaurent)
-* [Daesan Kim](https://twitter.com/BeiqueLaurent)
+* [Laurent Beique](lbeique@outlook.com)
+* [Cheryl Ho](ho.cheryl@outlook.com)
+* [Ivy Lee](ivy1920lee@gmail.com)
+* [Callista Stefanie Taswin](callistastefanie@gmail.com)
+* [Anna Jeong](seohyun9672@gmail.com)
+* [Daesan Kim](daesan98@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
