@@ -11,13 +11,11 @@
 <h3 align="center">Pathfinder</h3>
 
   <p align="center">
-    The Pathfinder Application.
+    The Pathfinder Project.
     <br />
     <a href="https://github.com/lbeique/Pathfinder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lbeique/Pathfinder">View Demo</a>
-    ·
     <a href="https://github.com/lbeique/Pathfinder/issues">Report Bug</a>
     ·
     <a href="https://github.com/lbeique/Pathfinder/issues">Request Feature</a>
@@ -36,16 +34,11 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#design-prototypes">Design Prototypes</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#purpose">Purpose</a></li>
+    <li><a href="#main-features">Main Features</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#research-and-design-documents">Design</a></li>
+    <li><a href="#development">Development</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#Collaborators">Collaborators</a></li>
@@ -60,10 +53,23 @@
 Pathfinder is a study/assignment helper that reformats assignment requirements or other educational resources so they are easier for students with learning/reading disabilities to understand.
 
 
+### Built With
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Storybook][Storybook.js]][Storybook-url]
+* [![MySQL][MySQL]][MySQL-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- PUROPOSE -->
 ## Purpose
 
 Students with dyslexia or other reading difficulties often experience more hardships when trying to understand their assignment requirements and course materials than the average student. Our goal is to make these resources easier to digest for an enhanced learning experience.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MAIN FEATURES -->
@@ -76,8 +82,20 @@ Students with dyslexia or other reading difficulties often experience more hards
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+All you need to do is visit our website www.projectpathfinder.com and you can instantly start using our project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- DESIGN DOCUMENTS -->
-## Design Prototypes
+## Research and Design Documents
+
+Pathfinder's Figma Team Project:
+<a href="https://www.figma.com/files/project/37898347/Team-project?fuid=1018768937161552575"><strong>Project Pathfinder</strong></a>
 
 Pathfinder's early research Figjam:
 <a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research"><strong>Pathfinder Figjam</strong></a>
@@ -88,48 +106,18 @@ Pathfinder's early design Figma:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Storybook][Storybook.js]][Storybook-url]
-* [![MySQL][MySQL]][MySQL-url]
+<!-- DEVELOPMENT -->
+## Development
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Storybook and Component Development:
+<a href="https://github.com/lbeique/Olympus"><strong>Olympus</strong></a>
 
+Backend API Server:
+<a href="https://github.com/lbeique/Olympus"><strong>Hermes</strong></a>
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Prerequisites, documentation, and guides can be included in this section.
-
-### Prerequisites
-
-This is where we can list the project dependencies.
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-This is where we can detail the installation process.
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Frontend Development:
+<a href="https://github.com/lbeique/Olympus"><strong>Athena</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,22 +135,24 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
+If you are looking to help or contribute with the project, please contact:
+
 Laurent Beique - [@BeiqueLaurent](https://twitter.com/BeiqueLaurent) - lbeique@outlook.com
 
-Project Link: [https://github.com/lbeique/Pathfinder](https://github.com/lbeique/Pathfinder)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- Collaborators -->
-## Collaborators
+<!-- Team Members -->
+## Team Members
 
-* [Cheryl Ho](https://twitter.com/BeiqueLaurent)
-* [Ivy Lee](https://twitter.com/BeiqueLaurent)
-* [Callista Stefanie Taswin](https://twitter.com/BeiqueLaurent)
-* [Anna Jeong](https://twitter.com/BeiqueLaurent)
-* [Daesan Kim](https://twitter.com/BeiqueLaurent)
+* [Laurent Beique](lbeique@outlook.com)
+* [Cheryl Ho](ho.cheryl@outlook.com)
+* [Ivy Lee](ivy1920lee@gmail.com)
+* [Callista Stefanie Taswin](callistastefanie@gmail.com)
+* [Anna Jeong](seohyun9672@gmail.com)
+* [Daesan Kim](daesan98@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
