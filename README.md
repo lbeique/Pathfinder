@@ -114,7 +114,7 @@ Storybook and Component Development:
 <a href="https://github.com/lbeique/Olympus"><strong>Olympus</strong></a>
 
 Backend API Server:
-<a href="https://github.com/lbeique/Olympus"><strong>Hermes</strong></a>
+<a href="https://github.com/CalliStef/PathFinder-Hermes"><strong>Hermes</strong></a>
 
 Next.js Server:
 <a href="https://github.com/hlee443/PathFinder-Athena"><strong>Athena</strong></a>
