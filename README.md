@@ -103,6 +103,9 @@ Pathfinder's early research Figjam:
 Pathfinder's early design Figma:
 <a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
 
+Pathfinder's Timeline:
+<a href="https://annajeong.atlassian.net/jira/software/projects/PATHFINDER/boards/1/roadmap"><strong>Pathfinder Figma</strong></a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
