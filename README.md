@@ -90,6 +90,9 @@ All you need to do is visit our website www.projectpathfinder.com and you can in
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Jira Board -->
+<a href ="https://annajeong.atlassian.net/jira/software/projects/PATHFINDER/boards/1/roadmap"></a>
+
 
 <!-- DESIGN DOCUMENTS -->
 ## Research and Design Documents
