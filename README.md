@@ -91,6 +91,7 @@ All you need to do is visit our website www.projectpathfinder.com and you can in
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Jira Board -->
+## Pathfinder's Roadmap:
 <a href ="https://annajeong.atlassian.net/jira/software/projects/PATHFINDER/boards/1/roadmap">Jira Board</a>
 
 
@@ -98,16 +99,7 @@ All you need to do is visit our website www.projectpathfinder.com and you can in
 ## Research and Design Documents
 
 Pathfinder's Figma Team Project:
-<a href="https://www.figma.com/files/project/37898347/Team-project?fuid=1018768937161552575"><strong>Project Pathfinder</strong></a>
-
-Pathfinder's early research Figjam:
-<a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research"><strong>Pathfinder Figjam</strong></a>
-
-Pathfinder's early design Figma:
-<a href="https://www.figma.com/file/9d94dbWawYK0n9Iy2kdOn9/Design?node-id=0%3A1"><strong>Pathfinder Figma</strong></a>
-
-Pathfinder's Timeline:
-<a href="https://annajeong.atlassian.net/jira/software/projects/PATHFINDER/boards/1/roadmap"><strong>Pathfinder Figma</strong></a>
+<a href="https://www.figma.com/files/project/37898347/Team-project?fuid=1024345975182938017"><strong>Project Pathfinder</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,9 +107,6 @@ Pathfinder's Timeline:
 
 <!-- DEVELOPMENT -->
 ## Development
-
-Storybook and Component Development:
-<a href="https://github.com/lbeique/Olympus"><strong>Olympus</strong></a>
 
 Backend API Server:
 <a href="https://github.com/CalliStef/PathFinder-Hermes"><strong>Hermes</strong></a>
