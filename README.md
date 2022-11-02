@@ -86,7 +86,7 @@ Students with dyslexia or other reading difficulties often experience more hards
 <!-- GETTING STARTED -->
 ## Getting Started
 
-All you need to do is visit our website www.projectpathfinder.com and you can instantly start using our project.
+All you need to do is visit our website www.path-finder.ca and you can instantly start using our project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
