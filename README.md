@@ -79,6 +79,12 @@ Students with dyslexia or other reading difficulties often experience more hards
 * Simplifying Texts
 * Course Materials Organization with The Personal Library
 
+![File upload feature](/images/UploadFile.png)
+![Document layout](/images/Document.png)
+![Text Setting feature](/images/TextSetting.png)
+![Dictionary feature](/images/Dictionary.png)
+![Library feature](/images/FileAdded.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
