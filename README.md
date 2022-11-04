@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/lbeique/Pathfinder">
-    <img src="images/Logo-vertical.png" alt="Pathfinder Logo" height="160">
+    <img src="images/Logo-Vertical.png" alt="Pathfinder Logo" height="160">
   </a>
   <h2> Pathfinder Project </h2>
   <p>
