@@ -8,7 +8,7 @@
   <a href="https://github.com/lbeique/Pathfinder">
     <img src="images/Logo-Vertical.png" alt="Pathfinder Logo" height="160">
   </a>
-  <h2> Pathfinder Project </h2>
+  ## Pathfinder Project
   <p>
     Design and develop an online digital solution to help students with dyslexia. 
   </p>
