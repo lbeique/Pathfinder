@@ -32,10 +32,10 @@
       <li>
         <a href="#links">Links</a>
         <ul>
-          <li><a href="#🗓️-timeline-and-roadmap">Timeline and Roadmap</a></li>
-          <li><a href="#🎨-design-and-research">Design and Research</a></li>
-          <li><a href="#🖥️-development">Development Servers</a></li>
-          <li><a href="#🔗-live-server">Live Server</a></li>
+          <li><a href="#timeline-and-roadmap">Timeline and Roadmap</a></li>
+          <li><a href="#design-and-research">Design and Research</a></li>
+          <li><a href="#development">Development Servers</a></li>
+          <li><a href="#live-server">Live Server</a></li>
         </ul>
       </li>
     <li><a href="#screenshots">Screenshots</a></li>
@@ -92,7 +92,7 @@ Students with dyslexia or other reading difficulties often experience more hards
 
 <!-- JIRA BOARD -->
 
-### 🗓️ Timeline and Roadmap
+### Timeline and Roadmap
 
 - Visit our <a href="https://annajeong.atlassian.net/jira/software/projects/PATHFINDER/boards/1/roadmap"><strong>Jira Board</strong></a>
 
@@ -100,7 +100,7 @@ Students with dyslexia or other reading difficulties often experience more hards
 
 <!-- DESIGN DOCUMENTS -->
 
-### 🎨 Design and Research
+### Design and Research
 
 - Go to our Initial Design Research on <a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research?node-id=0%3A1"><strong>Figjam</strong></a>
 
@@ -110,7 +110,7 @@ Students with dyslexia or other reading difficulties often experience more hards
 
 <!-- DEVELOPMENT -->
 
-### 🖥️ Development
+### Development
 
 - Backend API Server:
   <a href="https://github.com/CalliStef/PathFinder-Hermes"><strong>Hermes</strong></a>
@@ -122,7 +122,7 @@ Students with dyslexia or other reading difficulties often experience more hards
 
 <!-- LIVE SERVER -->
 
-### 🔗 Live Server
+### Live Server
 
 - Visit <a href="https://www.path-finder.ca/"><strong>Pathfinder</strong></a>
 
