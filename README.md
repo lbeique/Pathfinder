@@ -1,83 +1,136 @@
 <a name="readme-top"></a>
 
+<!-- PROJECT BRIEF -->
 
-<!-- PROJECT LOGO -->
-<br />
+# Pathfinder
+
 <div align="center">
   <a href="https://github.com/lbeique/Pathfinder">
-    <img src="images/Artboard.png" alt="Pathfinder Logo" height="160">
+    <img src="images/Logo-vertical.png" alt="Pathfinder Logo" height="160">
   </a>
-
-<h3 align="center">Pathfinder</h3>
-
-  <p align="center">
-    The Pathfinder Project.
-    <br />
-    <a href="https://github.com/lbeique/Pathfinder"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/lbeique/Pathfinder/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/lbeique/Pathfinder/issues">Request Feature</a>
+  <h2> Pathfinder Project </h2>
+  <p>
+    Design and develop an online digital solution to help students with dyslexia. 
   </p>
+  <a href="https://github.com/lbeique/Pathfinder/issues">Report Bug</a>
+·
+<a href="https://github.com/lbeique/Pathfinder/issues">Request Feature</a>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-overview">Project Overview</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#purpose">Purpose</a></li>
+        <li><a href="#main-features">Main Features</a></li>
       </ul>
     </li>
-    <li><a href="#purpose">Purpose</a></li>
-    <li><a href="#main-features">Main Features</a></li>
+      <li>
+        <a href="#links">Links</a>
+        <ul>
+          <li><a href="#🗓️-timeline-and-roadmap">Timeline and Roadmap</a></li>
+          <li><a href="#🎨-design-and-research">Design and Research</a></li>
+          <li><a href="#🖥️-development">Development Servers</a></li>
+          <li><a href="#🔗-live-server">Live Server</a></li>
+        </ul>
+      </li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#research-and-design-documents">Design</a></li>
-    <li><a href="#development">Development</a></li>
     <li><a href="#team-members">Team Members</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
-
+<br>
+<br>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+
+# Project Overview
 
 Pathfinder is a study/assignment helper that reformats assignment requirements or other educational resources so they are easier for students with learning/reading disabilities to understand.
 
+#### Built With
 
-### Built With
+- [![Next][next.js]][next-url]
+- [![React][react.js]][react-url]
+- [![Storybook][storybook.js]][storybook-url]
+- [![MySQL][mysql]][mysql-url]
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Storybook][Storybook.js]][Storybook-url]
-* [![MySQL][MySQL]][MySQL-url]
+<br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- PURPOSE-->
 
-
-<!-- PUROPOSE -->
 ## Purpose
 
 Students with dyslexia or other reading difficulties often experience more hardships when trying to understand their assignment requirements and course materials than the average student. Our goal is to make these resources easier to digest for an enhanced learning experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<br>
 
 <!-- MAIN FEATURES -->
-## Main Features
-* Text Summarization
-* Highlight Text Dictionary
-* Simplifying Texts
-* Course Materials Organization with The Personal Library
+
+# Main Features
+
+- Text Summarization
+- Dictionary
+- Adjust text setting based on user preferences
+- Highlight words/paragraphs and save them to the file
+- Save reformatted files into the personal library
+- Course materials organization
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br>
+
+# Links
+
+<!-- JIRA BOARD -->
+
+### 🗓️ Timeline and Roadmap
+
+- Visit our <a href="https://annajeong.atlassian.net/jira/software/projects/PATHFINDER/boards/1/roadmap"><strong>Jira Board</strong></a>
+
+<br>
+
+<!-- DESIGN DOCUMENTS -->
+
+### 🎨 Design and Research
+
+- Go to our Initial Design Research on <a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research?node-id=0%3A1"><strong>Figjam</strong></a>
+
+- Go to our Hi-Fi prototype on <a href="https://www.figma.com/file/PNC3AjvkvWIGoYZZnWpmAA/Lofi%2FHifi?node-id=1038%3A2961"><strong>Figma</strong></a>
+
+<br>
+
+<!-- DEVELOPMENT -->
+
+### 🖥️ Development
+
+- Backend API Server:
+  <a href="https://github.com/CalliStef/PathFinder-Hermes"><strong>Hermes</strong></a>
+
+- Next.js Server:
+  <a href="https://github.com/hlee443/PathFinder-Athena"><strong>Athena</strong></a>
+
+<br>
+
+<!-- LIVE SERVER -->
+
+### 🔗 Live Server
+
+- Visit <a href="https://www.path-finder.ca/"><strong>Pathfinder</strong></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br>
+
+# Screenshots
 
 ![File upload feature](/images/UploadFile.png)
 ![Document layout](/images/Document.png)
@@ -85,86 +138,57 @@ Students with dyslexia or other reading difficulties often experience more hards
 ![Dictionary feature](/images/Dictionary.png)
 ![Library feature](/images/FileAdded.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<br>
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-All you need to do is visit our website www.path-finder.ca and you can instantly start using our project.
+# Getting Started
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+All you need to do is visit <a href="https://www.path-finder.ca/"><strong>our website</strong></a> and you can instantly start using our project.
 
-<!-- Jira Board -->
-## Pathfinder's Roadmap:
-<a href ="https://annajeong.atlassian.net/jira/software/projects/PATHFINDER/boards/1/roadmap">Jira Board</a>
+<br>
+<br>
 
+<!-- TEAM MEMBERS -->
 
-<!-- DESIGN DOCUMENTS -->
-## Research and Design Documents
+# Team Members
 
-Pathfinder's Figma Team Project:
-<a href="https://www.figma.com/files/project/37898347/Team-project?fuid=1024345975182938017"><strong>Project Pathfinder</strong></a>
+- [Laurent Beique](https://github.com/lbeique)
+- [Cheryl Ho](https://github.com/cho196)
+- [Anna Jeong](https://github.com/seohyun9672)
+- [Daesan Kim](https://github.com/CalliStef)
+- [Ivy Lee](https://github.com/hlee443)
+- [Callista Stefanie Taswin](https://github.com/CalliStef)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- DEVELOPMENT -->
-## Development
-
-Backend API Server:
-<a href="https://github.com/CalliStef/PathFinder-Hermes"><strong>Hermes</strong></a>
-
-Next.js Server:
-<a href="https://github.com/hlee443/PathFinder-Athena"><strong>Athena</strong></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- Team Members -->
-## Team Members
-
-* [Laurent Beique](lbeique@outlook.com)
-* [Cheryl Ho](ho.cheryl@outlook.com)
-* [Ivy Lee](ivy1920lee@gmail.com)
-* [Callista Stefanie Taswin](callistastefanie@gmail.com)
-* [Anna Jeong](seohyun9672@gmail.com)
-* [Daesan Kim](daesan98@gmail.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<br>
+<br>
 
 <!-- LICENSE -->
-## License
+
+# License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<br>
+<br>
 
 <!-- CONTACT -->
-## Contact
+
+# Contact
 
 If you are looking to help or contribute with the project, please contact:
 
 Laurent Beique - [@BeiqueLaurent](https://twitter.com/BeiqueLaurent) - lbeique@outlook.com
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
-[Next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Storybook.js]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=storybook&logoColor=FF4785
-[Storybook-url]: https://storybook.js.org/
-[MySQL]: https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=035480
-[MySQL-url]: https://www.mysql.com/
+
+[next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
+[next-url]: https://nextjs.org/
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[storybook.js]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=storybook&logoColor=FF4785
+[storybook-url]: https://storybook.js.org/
+[mysql]: https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=035480
+[mysql-url]: https://www.mysql.com/
