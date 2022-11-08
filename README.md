@@ -137,7 +137,6 @@ Students with dyslexia or other reading difficulties often experience more hards
 ![Document layout](/screenshots/document.png)
 ![Dictionary feature](/screenshots/dictionary.png)
 ![Text Summarization feature](/screenshots/summarize.png)
-![Text Setting feature](/screenshots/text-setting.png)
 ![Save feature](/screenshots/save.png)
 ![Library feature](/screenshots/library.png)
 
