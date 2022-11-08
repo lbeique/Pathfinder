@@ -104,7 +104,7 @@ Students with dyslexia or other reading difficulties often experience more hards
 
 - Go to our Initial Design Research on <a href="https://www.figma.com/file/5uhAAMwg8mkt4xLeN6tnzy/Research?node-id=0%3A1"><strong>Figjam</strong></a>
 
-- Go to our Hi-Fi prototype on <a href="https://www.figma.com/file/PNC3AjvkvWIGoYZZnWpmAA/Lofi%2FHifi?node-id=1038%3A2961"><strong>Figma</strong></a>
+- Go to our Hi-Fi <a href="https://www.figma.com/file/PNC3AjvkvWIGoYZZnWpmAA/Lofi%2FHifi?node-id=1038%3A2961"><strong>Figma</strong></a>
 
 <br>
 
@@ -132,13 +132,13 @@ Students with dyslexia or other reading difficulties often experience more hards
 
 # Screenshots
 
-![File upload feature](/screenshots/home.png)
-![File customization feature](/screenshots/customization.png)
-![Document layout](/screenshots/document.png)
-![Dictionary feature](/screenshots/dictionary.png)
-![Text Summarization feature](/screenshots/summarize.png)
-![Save feature](/screenshots/save.png)
-![Library feature](/screenshots/library.png)
+![File upload feature](/images/home.png)
+![File customization feature](/images/customization.png)
+![Document layout](/images/document.png)
+![Dictionary feature](/images/dictionary.png)
+![Text Summarization feature](/images/summarize.png)
+![Save feature](/images/save.png)
+![Library feature](/images/library.png)
 
 <br>
 
