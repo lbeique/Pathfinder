@@ -118,6 +118,9 @@ Students with dyslexia or other reading difficulties often experience more hards
 - Next.js Server:
   <a href="https://github.com/hlee443/PathFinder-Athena"><strong>Athena</strong></a>
 
+- Mobile App:
+  <a href="https://github.com/cho196/PathFinder-Mobile"><strong>Athena</strong></a>
+
 <br>
 
 <!-- LIVE SERVER -->
