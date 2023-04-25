@@ -114,6 +114,8 @@ Students with dyslexia or other reading difficulties often experience more hards
 
 - Backend API Server:
   <a href="https://github.com/CalliStef/PathFinder-Hermes"><strong>Hermes</strong></a>
+   & 
+  <a href="https://github.com/lbeique/adonis"><strong>Adonis</strong></a>
 
 - Next.js Server:
   <a href="https://github.com/hlee443/PathFinder-Athena"><strong>Athena</strong></a>
